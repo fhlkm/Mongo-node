@@ -1,0 +1,22 @@
+{
+  "name": "p_moudle",
+  "version": "1.0.0",
+  "description": "module infor",
+  "kerberos": "~0.0.17",
+  "main": "Pushinof.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.4"
+  }
+}
